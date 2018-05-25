@@ -8,3 +8,5 @@ Credits: Patrick Weiner, Phil Gosch, Melissa Gonzalez, Syeda Rizvi, Ash Chetri
 Web-Build: http://pawe.at/Games/Hplus/Hplus.html (Unity3D-Webplayer so not working with Chrome!)
 
 Original Git-Repository: https://github.com/derpawe/bio-science-game
+
+More infomation about the project: https://www.westminster.ac.uk/study/current-students/news/2016/get-involved-in-an-international-student-collaboration-to-design-a-game
