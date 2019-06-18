@@ -3,7 +3,7 @@ H+ is an award winning 3-day collaboration project between Graz University of Te
 
 Technologies: Unity3D, Visual Studio, Photoshop, Blender, Quixel, Git
 
-Credits: Patrick Weiner, Phil Gosch, Melissa Gonzalez, Syeda Rizvi, Ash Chetri
+Credits: Patrick Weiner, Phil Gosch, Melissa Gonzalez, Syeda Rizvi, Alexander Adam Laurence
 
 Web-Build: http://pawe.at/Games/Hplus/Hplus.html (Unity3D-Webplayer so not working with Chrome!)
 
